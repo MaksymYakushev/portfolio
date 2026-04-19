@@ -2,7 +2,6 @@
 
 Hi there! I’m Maksym
 
-💻 Data Analyst  
 📍 Prague, Czech Republic  
 
 ## 🚀 About me
@@ -21,7 +20,7 @@ I am ready to begin my career as a data analyst and look forward to projects whe
 
 ## 📂 Projects
 
-- [Project 1 - Mental Heals Analysis](https://github.com/MaksymYakushev/mental-health-analysis)
+[Project 1 - Mental Heals Analysis](https://github.com/MaksymYakushev/mental-health-analysis)
 
 ## 🎓 Certifications
 
@@ -38,7 +37,7 @@ I am ready to begin my career as a data analyst and look forward to projects whe
 **Data Analytics and Visualization Job Simulation** – Accenture | january 2024 | [View Certificate](assets/certificates/data_analytics_job_simulation_accenture.pdf)
 
 ## 📫 Contacts
-- Email: maksym.yakushev.work@gmail.com
-- LinkedIn: [click here](https://www.linkedin.com/in/maksymyakushev/)
+Email: maksym.yakushev.work@gmail.com  
+LinkedIn: [click here](https://www.linkedin.com/in/maksymyakushev/)
 
 ## Additional Useful Links
