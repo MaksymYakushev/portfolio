@@ -23,6 +23,20 @@ I am ready to begin my career as a data analyst and look forward to projects whe
 
 - [Project 1 - Mental Heals Analysis](https://github.com/MaksymYakushev/mental-health-analysis)
 
+## 🎓 Certifications
+
+**Google Data Analytics** – Google | march 2026 | [View Certificate](assets/certificates/google_data_analytics.pdf)
+
+**Business English Communication** – University of Washington | march 2026 | [View Certificate](assets/certificates/business_english_communication_skills.pdf)
+
+**Data Analyst Associate** – DataCamp | ferbruary 2026 – ferbruary 2028 | [View Certificate](assets/certificates/data_analyst_associate.pdf)
+
+**English Certificate 55/100 (B2 Upper Intermidiate)** – EF SET | january 2026 | [View Certificate](assets/certificates/ef_set_certificate.pdf)
+
+**Data Visualisation: Empowering Business with Effective Insights** – TATA | december 2024 | [View Certificate](assets/certificates/data_visualisation_tata.pdf)
+
+**Data Analytics and Visualization Job Simulation** – Accenture | january 2024 | [View Certificate](assets/certificates/data_analytics_job_simulation_accenture.pdf)
+
 ## 📫 Contacts
 - Email: maksym.yakushev.work@gmail.com
 - LinkedIn: [click here](https://www.linkedin.com/in/maksymyakushev/)
