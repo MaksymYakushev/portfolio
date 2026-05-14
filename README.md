@@ -14,7 +14,6 @@ I am ready to begin my career as a data analyst and look forward to projects whe
 
 - Spreadsheets (Excel, Google Sheets)
 - SQL
-- Python
 - BI Tools (Tableau, Power BI)
 - Git
 
