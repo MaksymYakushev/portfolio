@@ -20,7 +20,13 @@ I am ready to begin my career as a data analyst and look forward to projects whe
 
 ## 📂 Projects
 
-[Project 1 - Mental Heals Analysis](https://github.com/MaksymYakushev/mental-health-analysis)
+### Project 1. Mental Heals Analysis
+
+Link to the project: [Click here](https://github.com/MaksymYakushev/mental-health-analysis)
+
+### Project 2. Store Sales Analysis
+
+Link to the project: [Click here](https://github.com/MaksymYakushev/store-analysis)
 
 ## 🎓 Certifications
 
