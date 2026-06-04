@@ -21,28 +21,32 @@ I am ready to begin my career as a data analyst and look forward to projects whe
 
 ### Project 1. Mental Heals Analysis
 
-Link to the project: [Click here](https://github.com/MaksymYakushev/mental-health-analysis)
+An interactive Tableau dashboard that explores the impact of remote work on employee wellbeing, stress levels, burnout, and productivity. The project combines SQL-based data preparation with business-focused visual analytics to help organizations identify factors affecting workforce performance and mental health.
+
+🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/mental-health-analysis)
 
 ### Project 2. Store Sales Analysis
 
-Link to the project: [Click here](https://github.com/MaksymYakushev/store-analysis)
+A retail analytics dashboard designed to evaluate sales performance, profitability, customer behavior, and discount strategies. Using SQL, Python, and Tableau, the project transforms transactional data into actionable insights that support business decision-making and performance optimization.
+
+🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/store-analysis)
 
 ## 🎓 Certifications
 
-**Google Data Analytics** – Google | march 2026 | [View Certificate](assets/certificates/google_data_analytics.pdf)
-
-**Business English Communication** – University of Washington | march 2026 | [View Certificate](assets/certificates/business_english_communication_skills.pdf)
-
-**Data Analyst Associate** – DataCamp | ferbruary 2026 – ferbruary 2028 | [View Certificate](assets/certificates/data_analyst_associate.pdf)
-
-**English Certificate 55/100 (B2 Upper Intermidiate)** – EF SET | january 2026 | [View Certificate](assets/certificates/ef_set_certificate.pdf)
-
-**Data Visualisation: Empowering Business with Effective Insights** – TATA | december 2024 | [View Certificate](assets/certificates/data_visualisation_tata.pdf)
-
-**Data Analytics and Visualization Job Simulation** – Accenture | january 2024 | [View Certificate](assets/certificates/data_analytics_job_simulation_accenture.pdf)
+| Certification | Organization | Date ||
+|---------------|-------------|------|---|
+| Google Data Analytics Professional Certificate | Google | Mar 2026 | [View Certificate](assets/certificates/google_data_analytics.pdf) |
+| Data Analyst Associate | DataCamp | Feb 2026 – Feb 2028 | [View Certificate](assets/certificates/data_analyst_associate.pdf) |
+| Business English Communication | University of Washington | Mar 2026 | [View Certificate](assets/certificates/business_english_communication_skills.pdf) |
+| EF SET English Certificate (B2 Upper Intermediate) | EF SET | Jan 2026 | [View Certificate](assets/certificates/ef_set_certificate.pdf) |
+| Data Visualisation: Empowering Business with Effective Insights | TATA | Dec 2024 | [View Certificate](assets/certificates/data_visualisation_tata.pdf) |
+| Data Analytics and Visualization Job Simulation | Accenture | Jan 2024 | [View Certificate](assets/certificates/data_analytics_job_simulation_accenture.pdf) |
 
 ## 📫 Contacts
 Email: maksym.yakushev.work@gmail.com  
 LinkedIn: [click here](https://www.linkedin.com/in/maksymyakushev/)
 
-## Additional Useful Links
+
+
+
+
