@@ -31,6 +31,12 @@ A retail analytics dashboard designed to evaluate sales performance, profitabili
 
 🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/store-analysis)
 
+### Project 3. Microsoft Stock Time Series
+
+A Microsoft stock time series analysis project in R that combines data cleaning and reproducible pipeline design with time series decomposition, stationarity checks, and transformations. The project applies ARIMA model selection and residual diagnostics, while using Holt-Winters and ETS forecasting on monthly aggregated data, and compares models by RMSE, MAE, MAPE, and Theil's U.
+
+🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/microsoft-stock-time-series)
+
 ## 🎓 Certifications
 
 | Certification | Organization | Date ||
