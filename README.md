@@ -13,9 +13,16 @@ I am ready to begin my career as a data analyst and look forward to projects whe
 ## 🛠️ Technology & Skills
 
 - Spreadsheets (Excel, Google Sheets)
-- SQL
+- SQL(PostgreSQL, MySQL)
 - BI Tools (Tableau, Power BI)
 - Git
+
+## 🎓 Education
+
+| Degree | University | Period | Diploma |
+|--------|-----------|--------|---------|
+| Master of Applied Mathematics | Odesa I.I. Mechnikov National University | September 2024 – December 2025 | [View Diploma](assets/diploma/master_diploma.pdf) |
+| Bachelor of Applied Mathematics | Odesa I.I. Mechnikov National University | September 2020 – June 2024 | [View Diploma](assets/diploma/bachelor_diploma.pdf) |
 
 ## 📂 Projects
 
@@ -37,7 +44,7 @@ A Microsoft stock time series analysis project in R that combines data cleaning 
 
 🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/microsoft-stock-time-series)
 
-## 🎓 Certifications
+## 🏆 Certifications
 
 | Certification | Organization | Date ||
 |---------------|-------------|------|---|
@@ -49,8 +56,8 @@ A Microsoft stock time series analysis project in R that combines data cleaning 
 | Data Analytics and Visualization Job Simulation | Accenture | Jan 2024 | [View Certificate](assets/certificates/data_analytics_job_simulation_accenture.pdf) |
 
 ## 📫 Contacts
-Email: maksym.yakushev.work@gmail.com  
-LinkedIn: [click here](https://www.linkedin.com/in/maksymyakushev/)
+E-mail: maksym.yakushev.work@gmail.com  
+LinkedIn: [Click Here](https://www.linkedin.com/in/maksymyakushev/)
 
 
 
