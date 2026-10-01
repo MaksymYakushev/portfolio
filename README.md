@@ -44,6 +44,12 @@ A Microsoft stock time series analysis project in R that combines data cleaning 
 
 🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/microsoft-stock-time-series)
 
+### Project 4. Nike Store Analysis 
+
+Data analytics portfolio project analyzing 9,360 Nike sales transactions across the United States using SQL and Metabase, with interactive dashboards and business performance insights.
+
+🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/metabase-nike-sales)
+
 ## 🏆 Certifications
 
 | Certification | Organization | Date ||
