@@ -50,7 +50,7 @@ Data analytics portfolio project analyzing 9,360 Nike sales transactions across 
 
 🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/metabase-nike-sales)
 
-### Project 5. Nike Store Analysis 
+### Project 5. Smartphone Addiction Analysis
 
 The project built with Power BI, exploring smartphone addiction patterns and their relationship with screen time, sleep, stress, and academic/work performance. Demonstrates data cleaning, DAX, data modeling, exploratory analysis, and interactive dashboard development to turn data into actionable insights.
 
