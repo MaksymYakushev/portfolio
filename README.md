@@ -28,11 +28,15 @@ I am ready to begin my career as a data analyst and look forward to projects whe
 
 ### Project 1. Mental Heals Analysis
 
+---
+
 An interactive Tableau dashboard that explores the impact of remote work on employee wellbeing, stress levels, burnout, and productivity. The project combines SQL-based data preparation with business-focused visual analytics to help organizations identify factors affecting workforce performance and mental health.
 
 🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/mental-health-analysis)
 
 ### Project 2. Store Sales Analysis
+
+---
 
 A retail analytics dashboard designed to evaluate sales performance, profitability, customer behavior, and discount strategies. Using SQL, Python, and Tableau, the project transforms transactional data into actionable insights that support business decision-making and performance optimization.
 
@@ -40,11 +44,15 @@ A retail analytics dashboard designed to evaluate sales performance, profitabili
 
 ### Project 3. Microsoft Stock Time Series
 
+---
+
 A Microsoft stock time series analysis project in R that combines data cleaning and reproducible pipeline design with time series decomposition, stationarity checks, and transformations. The project applies ARIMA model selection and residual diagnostics, while using Holt-Winters and ETS forecasting on monthly aggregated data, and compares models by RMSE, MAE, MAPE, and Theil's U.
 
 🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/microsoft-stock-time-series)
 
 ### Project 4. Nike Store Analysis 
+
+---
 
 Data analytics portfolio project analyzing 9,360 Nike sales transactions across the United States using SQL and Metabase, with interactive dashboards and business performance insights.
 
@@ -52,9 +60,23 @@ Data analytics portfolio project analyzing 9,360 Nike sales transactions across 
 
 ### Project 5. Smartphone Addiction Analysis
 
+---
+
 The project built with Power BI, exploring smartphone addiction patterns and their relationship with screen time, sleep, stress, and academic/work performance. Demonstrates data cleaning, DAX, data modeling, exploratory analysis, and interactive dashboard development to turn data into actionable insights.
 
 🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/smartphone-addiction-analysis)
+
+### Project 6. Open-Meteo Weather Analytics
+
+---
+
+An automated weather analytics pipeline built with Python, Open-Meteo API, Google BigQuery, and Data Studio to collect, process, and visualize weather data with automated execution and interactive dashboards.
+
+**Tech Stack:** Python, Pandas, Open-Meteo API, Google BigQuery, SQL, Data Studio, Git, GitHub.  
+
+**Project Focus:** Data Pipeline Automation · Data Analytics · Cloud Data Warehousing · Business Intelligence
+
+🔗 Link to the project: [Click here](https://github.com/MaksymYakushev/data-studio-open-meteo)
 
 ## 🏆 Certifications
 
